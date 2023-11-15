@@ -1,2 +1,2 @@
-# js-prince-tor
+# js-prince
 a code for java students 
